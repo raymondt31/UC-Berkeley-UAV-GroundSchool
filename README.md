@@ -1,1 +1,1 @@
-This is my UAVs@Berkeley Week 1 Skill Booster: "Color Me Impressed"
+These are my Fall'25 UAV software ground school skill booster projects.
